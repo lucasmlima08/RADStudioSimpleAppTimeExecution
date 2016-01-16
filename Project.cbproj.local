@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/01/15 20:52:32.000.434,=C:\Users\Lucas M Lima\Documents\Embarcadero\Studio\Projects\Project3PCH1.h</Transaction>
+    <Transaction>2016/01/15 20:52:32.000.218,=C:\Users\Lucas M Lima\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2016/01/15 21:03:22.000.194,C:\Users\Lucas M Lima\Documents\Embarcadero\Studio\Projects\Project4.cpp=C:\Users\Lucas M Lima\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2016/01/15 21:03:22.000.194,C:\Users\Lucas M Lima\Documents\Embarcadero\Studio\Projects\Project4.h=C:\Users\Lucas M Lima\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2016/01/15 21:03:22.000.194,C:\Users\Lucas M Lima\Documents\Embarcadero\Studio\Projects\Project4.fmx=C:\Users\Lucas M Lima\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2016/01/15 21:03:32.000.154,C:\Users\Lucas M Lima\Documents\Embarcadero\Studio\Projects\Project44PCH1.h=C:\Users\Lucas M Lima\Documents\Embarcadero\Studio\Projects\Project3PCH1.h</Transaction>
+    <Transaction>2016/01/15 21:03:32.000.201,C:\Users\Lucas M Lima\Documents\Embarcadero\Studio\Projects\Project44.cbproj=C:\Users\Lucas M Lima\Documents\Embarcadero\Studio\Projects\Project3.cbproj</Transaction>
+    <Transaction>2016/01/16 00:59:11.783,C:\Users\Lucas M Lima\Documents\Embarcadero\Studio\Projects\SimpleAppTimeExecution_Android\ProjectPCH1.h=C:\Users\Lucas M Lima\Documents\Embarcadero\Studio\Projects\Project44PCH1.h</Transaction>
+    <Transaction>2016/01/16 00:59:11.844,C:\Users\Lucas M Lima\Documents\Embarcadero\Studio\Projects\SimpleAppTimeExecution_Android\Project.cbproj=C:\Users\Lucas M Lima\Documents\Embarcadero\Studio\Projects\Project44.cbproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="479000efb0da1100"/>
+	</ActiveMobileDevice>
+</BorlandProject>
